@@ -1,0 +1,7 @@
+## Interface: 90200
+## Version: 0.1.0
+## Title: Yaot (Yet Another Objective Tracker)
+## Notes: Enchanced Objective Tracker
+## Author: Jason M. Pittman, 2022
+
+Yaot.lua
